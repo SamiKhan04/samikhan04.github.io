@@ -1,0 +1,3 @@
+https://chirpy.cotes.page/posts/write-a-new-post/
+
+bundle exec jekyll compose "My New Post"
